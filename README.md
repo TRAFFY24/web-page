@@ -2,25 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Web Page Project</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 40px; background: #f9f9f9; color: #222; }
-    h1, h2, h3 { color: #0057b8; }
-    code, pre { background: #eee; padding: 2px 6px; border-radius: 4px; }
-    ul { margin-bottom: 1em; }
-    .structure {
-      background: #fff;
-      border: 1px solid #ccc;
-      padding: 1em;
-      margin-bottom: 1em;
-    }
-    .license {
-      background: #e6f4ea;
-      padding: 1em;
-      border-radius: 6px;
-      font-size: 1.1em;
-    }
-  </style>
 </head>
 <body>
   <h1>Web Page Project</h1>
